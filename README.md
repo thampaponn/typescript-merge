@@ -24,7 +24,7 @@ $ npm install
 $ npm run start
 
 ```
-See result in the terminal
+**See result in the terminal**
 
 ## Run unit tests
 
